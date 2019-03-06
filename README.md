@@ -1,0 +1,1 @@
+sbms-zipkin-server
